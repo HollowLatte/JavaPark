@@ -46,5 +46,5 @@ jobs:
           branch: gh-pages
           folder: src/.vuepress/dist
           token: ${{ secrets.ACCESS_TOKEN }}
-          repository-name: HollowLatte/JavaPark
+          repository-name: HollowLatte/hollowlatte.github.io/JavaPark
           commit-message: "${{ github.event.head_commit.message }}"
