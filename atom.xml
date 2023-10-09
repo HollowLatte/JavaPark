@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://cunyu1943.github.io/atom.xsl"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://cunyu1943.github.io/JavaPark/atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
-  <id>https://cunyu1943.github.io/</id>
+  <id>https://cunyu1943.github.io/JavaPark/</id>
   <title>JavaPark</title>
   <subtitle>分享编程学习、面试求职、效率工具等方面内容。</subtitle>
-  <icon>https://cunyu1943.github.io/logo.svg</icon>
-  <updated>2023-10-09T15:30:38.992Z</updated>
+  <icon>https://cunyu1943.github.io/JavaPark/logo.svg</icon>
+  <updated>2023-10-09T15:41:31.767Z</updated>
   <generator>vuepress-plugin-feed2</generator>
-  <link rel="self" href="https://cunyu1943.github.io/atom.xml"/>
-  <link rel="alternate" href="https://cunyu1943.github.io/"/>
+  <link rel="self" href="https://cunyu1943.github.io/JavaPark/atom.xml"/>
+  <link rel="alternate" href="https://cunyu1943.github.io/JavaPark/"/>
   <category term="Java 入门练习"/>
   <category term="C 语言教程"/>
   <category term="C++ 语言教程"/>
@@ -25,15 +25,15 @@
   <category term="开发工具"/>
   <entry>
     <title type="text">实战训练</title>
-    <id>https://cunyu1943.github.io/java-tutorial/in-action-series/</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/in-action-series/"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/in-action-series/</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/in-action-series/"/>
     <updated>2023-09-29T14:35:48.000Z</updated>
     <published>2023-09-29T14:35:48.000Z</published>
   </entry>
   <entry>
     <title type="text">Java 入门练习：1 - 5</title>
-    <id>https://cunyu1943.github.io/java-tutorial/in-action-series/se-exercise-series/20220625-1-5.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/in-action-series/se-exercise-series/20220625-1-5.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/in-action-series/se-exercise-series/20220625-1-5.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/in-action-series/se-exercise-series/20220625-1-5.html"/>
     <updated>2023-09-29T14:35:48.000Z</updated>
     <summary type="html"><![CDATA[<h1> Java 入门练习：1 - 5</h1>
 <div class="hint-container info">
@@ -131,8 +131,8 @@
   </entry>
   <entry>
     <title type="text">Java 入门练习：6 - 10</title>
-    <id>https://cunyu1943.github.io/java-tutorial/in-action-series/se-exercise-series/20220626-6-10.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/in-action-series/se-exercise-series/20220626-6-10.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/in-action-series/se-exercise-series/20220626-6-10.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/in-action-series/se-exercise-series/20220626-6-10.html"/>
     <updated>2023-09-29T14:35:48.000Z</updated>
     <summary type="html"><![CDATA[<h1> Java 入门练习：6 - 10</h1>
 <div class="hint-container info">
@@ -238,8 +238,8 @@
   </entry>
   <entry>
     <title type="text">Java 入门练习：11 - 15</title>
-    <id>https://cunyu1943.github.io/java-tutorial/in-action-series/se-exercise-series/20220627-11-15.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/in-action-series/se-exercise-series/20220627-11-15.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/in-action-series/se-exercise-series/20220627-11-15.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/in-action-series/se-exercise-series/20220627-11-15.html"/>
     <updated>2023-09-29T14:35:48.000Z</updated>
     <summary type="html"><![CDATA[<h1> Java 入门练习：11 - 15</h1>
 <div class="hint-container info">
@@ -338,8 +338,8 @@
   </entry>
   <entry>
     <title type="text">Java 入门练习：16 - 20</title>
-    <id>https://cunyu1943.github.io/java-tutorial/in-action-series/se-exercise-series/20220628-16-20.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/in-action-series/se-exercise-series/20220628-16-20.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/in-action-series/se-exercise-series/20220628-16-20.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/in-action-series/se-exercise-series/20220628-16-20.html"/>
     <updated>2023-09-29T14:35:48.000Z</updated>
     <summary type="html"><![CDATA[<h1> Java 入门练习：16 - 20</h1>
 <div class="hint-container info">
@@ -449,8 +449,8 @@
   </entry>
   <entry>
     <title type="text">Java 入门练习：21 - 25</title>
-    <id>https://cunyu1943.github.io/java-tutorial/in-action-series/se-exercise-series/20220629-21-25.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/in-action-series/se-exercise-series/20220629-21-25.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/in-action-series/se-exercise-series/20220629-21-25.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/in-action-series/se-exercise-series/20220629-21-25.html"/>
     <updated>2023-09-29T14:35:48.000Z</updated>
     <summary type="html"><![CDATA[<h1> Java 入门练习：21 - 25</h1>
 <div class="hint-container info">
@@ -555,8 +555,8 @@
   </entry>
   <entry>
     <title type="text">Java 入门练习：26 - 30</title>
-    <id>https://cunyu1943.github.io/java-tutorial/in-action-series/se-exercise-series/20220630-26-30.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/in-action-series/se-exercise-series/20220630-26-30.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/in-action-series/se-exercise-series/20220630-26-30.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/in-action-series/se-exercise-series/20220630-26-30.html"/>
     <updated>2023-09-29T14:35:48.000Z</updated>
     <summary type="html"><![CDATA[<h1> Java 入门练习：26 - 30</h1>
 <div class="hint-container info">
@@ -643,8 +643,8 @@
   </entry>
   <entry>
     <title type="text">Java 入门练习：31 - 35</title>
-    <id>https://cunyu1943.github.io/java-tutorial/in-action-series/se-exercise-series/20220701-31-35.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/in-action-series/se-exercise-series/20220701-31-35.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/in-action-series/se-exercise-series/20220701-31-35.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/in-action-series/se-exercise-series/20220701-31-35.html"/>
     <updated>2023-09-29T14:35:48.000Z</updated>
     <summary type="html"><![CDATA[<h1> Java 入门练习：31 - 35</h1>
 <div class="hint-container info">
@@ -749,8 +749,8 @@ x年12月:yy天（x为输入的任意年份，yy为当月天数）</p>
   </entry>
   <entry>
     <title type="text">Java 入门练习：36 - 40</title>
-    <id>https://cunyu1943.github.io/java-tutorial/in-action-series/se-exercise-series/20220702-36-40.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/in-action-series/se-exercise-series/20220702-36-40.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/in-action-series/se-exercise-series/20220702-36-40.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/in-action-series/se-exercise-series/20220702-36-40.html"/>
     <updated>2023-09-29T14:35:48.000Z</updated>
     <summary type="html"><![CDATA[<h1> Java 入门练习：36 - 40</h1>
 <div class="hint-container info">
@@ -837,15 +837,15 @@ x年12月:yy天（x为输入的任意年份，yy为当月天数）</p>
   </entry>
   <entry>
     <title type="text">Java 入门练习</title>
-    <id>https://cunyu1943.github.io/java-tutorial/in-action-series/se-exercise-series/</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/in-action-series/se-exercise-series/"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/in-action-series/se-exercise-series/</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/in-action-series/se-exercise-series/"/>
     <updated>2023-09-29T14:35:48.000Z</updated>
     <published>2023-09-29T14:35:48.000Z</published>
   </entry>
   <entry>
     <title type="text">知识点总结</title>
-    <id>https://cunyu1943.github.io/program-language/c-series/20180720-summary.html</id>
-    <link href="https://cunyu1943.github.io/program-language/c-series/20180720-summary.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/program-language/c-series/20180720-summary.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/program-language/c-series/20180720-summary.html"/>
     <updated>2023-09-28T00:14:11.000Z</updated>
     <summary type="html"><![CDATA[<h1> 知识点总结</h1>
 <div class="hint-container info">
@@ -1007,8 +1007,8 @@ x年12月:yy天（x为输入的任意年份，yy为当月天数）</p>
   </entry>
   <entry>
     <title type="text">知识点总结</title>
-    <id>https://cunyu1943.github.io/program-language/cpp-series/20180720-summary.html</id>
-    <link href="https://cunyu1943.github.io/program-language/cpp-series/20180720-summary.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/program-language/cpp-series/20180720-summary.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/program-language/cpp-series/20180720-summary.html"/>
     <updated>2023-09-28T00:14:11.000Z</updated>
     <summary type="html"><![CDATA[<h1> 知识点总结</h1>
 <div class="hint-container info">
@@ -1124,15 +1124,15 @@ x年12月:yy天（x为输入的任意年份，yy为当月天数）</p>
   </entry>
   <entry>
     <title type="text">C++ 系列</title>
-    <id>https://cunyu1943.github.io/program-language/cpp-series/</id>
-    <link href="https://cunyu1943.github.io/program-language/cpp-series/"/>
+    <id>https://cunyu1943.github.io/JavaPark/program-language/cpp-series/</id>
+    <link href="https://cunyu1943.github.io/JavaPark/program-language/cpp-series/"/>
     <updated>2023-09-28T00:14:11.000Z</updated>
     <published>2023-09-28T00:14:11.000Z</published>
   </entry>
   <entry>
     <title type="text">turtle 库使用</title>
-    <id>https://cunyu1943.github.io/program-language/python-series/tutorial/20180429-turtle.html</id>
-    <link href="https://cunyu1943.github.io/program-language/python-series/tutorial/20180429-turtle.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/program-language/python-series/tutorial/20180429-turtle.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/program-language/python-series/tutorial/20180429-turtle.html"/>
     <updated>2023-09-28T00:14:11.000Z</updated>
     <summary type="html"><![CDATA[<h1> turtle 库使用</h1>
 <div class="hint-container info">
@@ -1195,8 +1195,8 @@ x年12月:yy天（x为输入的任意年份，yy为当月天数）</p>
   </entry>
   <entry>
     <title type="text">数码管绘制</title>
-    <id>https://cunyu1943.github.io/program-language/python-series/tutorial/20180501-digital-time.html</id>
-    <link href="https://cunyu1943.github.io/program-language/python-series/tutorial/20180501-digital-time.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/program-language/python-series/tutorial/20180501-digital-time.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/program-language/python-series/tutorial/20180501-digital-time.html"/>
     <updated>2023-09-28T00:14:11.000Z</updated>
     <summary type="html"><![CDATA[<h1> 数码管绘制</h1>
 <div class="hint-container info">
@@ -1336,8 +1336,8 @@ x年12月:yy天（x为输入的任意年份，yy为当月天数）</p>
   </entry>
   <entry>
     <title type="text">简介</title>
-    <id>https://cunyu1943.github.io/program-language/python-series/tutorial/20210331-intro.html</id>
-    <link href="https://cunyu1943.github.io/program-language/python-series/tutorial/20210331-intro.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/program-language/python-series/tutorial/20210331-intro.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/program-language/python-series/tutorial/20210331-intro.html"/>
     <updated>2023-09-27T13:30:07.000Z</updated>
     <summary type="html"><![CDATA[<h1> 简介</h1>
 <div class="hint-container info">
@@ -1495,8 +1495,8 @@ PyPy 最突出的优点就是可以提升Python代码的执行速度，它采用
   </entry>
   <entry>
     <title type="text">玩转 Pycharm</title>
-    <id>https://cunyu1943.github.io/program-language/python-series/tutorial/20210401-pycharm.html</id>
-    <link href="https://cunyu1943.github.io/program-language/python-series/tutorial/20210401-pycharm.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/program-language/python-series/tutorial/20210401-pycharm.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/program-language/python-series/tutorial/20210401-pycharm.html"/>
     <updated>2023-09-27T13:30:07.000Z</updated>
     <summary type="html"><![CDATA[<h1> 玩转 Pycharm</h1>
 <div class="hint-container info">
@@ -1634,8 +1634,8 @@ PyPy 最突出的优点就是可以提升Python代码的执行速度，它采用
   </entry>
   <entry>
     <title type="text">语言元素</title>
-    <id>https://cunyu1943.github.io/program-language/python-series/tutorial/20210402-language-element.html</id>
-    <link href="https://cunyu1943.github.io/program-language/python-series/tutorial/20210402-language-element.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/program-language/python-series/tutorial/20210402-language-element.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/program-language/python-series/tutorial/20210402-language-element.html"/>
     <updated>2023-09-28T00:22:16.000Z</updated>
     <summary type="html"><![CDATA[<h1> 语言元素</h1>
 <div class="hint-container info">
@@ -2465,8 +2465,8 @@ PyPy 最突出的优点就是可以提升Python代码的执行速度，它采用
   </entry>
   <entry>
     <title type="text">条件判断、循环以及循环的终止</title>
-    <id>https://cunyu1943.github.io/program-language/python-series/tutorial/20210403-condition.html</id>
-    <link href="https://cunyu1943.github.io/program-language/python-series/tutorial/20210403-condition.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/program-language/python-series/tutorial/20210403-condition.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/program-language/python-series/tutorial/20210403-condition.html"/>
     <updated>2023-09-27T15:08:09.000Z</updated>
     <summary type="html"><![CDATA[<h1> 条件判断、循环以及循环的终止</h1>
 <div class="hint-container info">
@@ -2545,8 +2545,8 @@ PyPy 最突出的优点就是可以提升Python代码的执行速度，它采用
   </entry>
   <entry>
     <title type="text">Python 实现购物车</title>
-    <id>https://cunyu1943.github.io/program-language/python-series/tutorial/20220420-shopping.html</id>
-    <link href="https://cunyu1943.github.io/program-language/python-series/tutorial/20220420-shopping.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/program-language/python-series/tutorial/20220420-shopping.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/program-language/python-series/tutorial/20220420-shopping.html"/>
     <updated>2023-09-27T13:30:07.000Z</updated>
     <summary type="html"><![CDATA[<h1> Python 实现购物车</h1>
 <div class="hint-container info">
@@ -2631,8 +2631,8 @@ salary <span class="token operator">=</span> <span class="token builtin">input</
   </entry>
   <entry>
     <title type="text">Python 3.7 安装 polyglot 失败</title>
-    <id>https://cunyu1943.github.io/program-language/python-series/tutorial/20220421-polyglot-install.html</id>
-    <link href="https://cunyu1943.github.io/program-language/python-series/tutorial/20220421-polyglot-install.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/program-language/python-series/tutorial/20220421-polyglot-install.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/program-language/python-series/tutorial/20220421-polyglot-install.html"/>
     <updated>2023-09-27T13:30:07.000Z</updated>
     <summary type="html"><![CDATA[<h1> Python 3.7 安装 polyglot 失败</h1>
 <div class="hint-container info">
@@ -2689,22 +2689,22 @@ salary <span class="token operator">=</span> <span class="token builtin">input</
   </entry>
   <entry>
     <title type="text">Python 教程</title>
-    <id>https://cunyu1943.github.io/program-language/python-series/tutorial/</id>
-    <link href="https://cunyu1943.github.io/program-language/python-series/tutorial/"/>
+    <id>https://cunyu1943.github.io/JavaPark/program-language/python-series/tutorial/</id>
+    <link href="https://cunyu1943.github.io/JavaPark/program-language/python-series/tutorial/"/>
     <updated>2023-09-27T11:03:03.000Z</updated>
     <published>2023-09-27T11:03:03.000Z</published>
   </entry>
   <entry>
     <title type="text">Python 系列</title>
-    <id>https://cunyu1943.github.io/program-language/python-series/</id>
-    <link href="https://cunyu1943.github.io/program-language/python-series/"/>
+    <id>https://cunyu1943.github.io/JavaPark/program-language/python-series/</id>
+    <link href="https://cunyu1943.github.io/JavaPark/program-language/python-series/"/>
     <updated>2023-09-27T07:28:16.000Z</updated>
     <published>2023-09-27T07:28:16.000Z</published>
   </entry>
   <entry>
     <title type="text">Python3 编程实例（1 - 5）</title>
-    <id>https://cunyu1943.github.io/program-language/python-series/instance/20181003-1-5.html</id>
-    <link href="https://cunyu1943.github.io/program-language/python-series/instance/20181003-1-5.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/program-language/python-series/instance/20181003-1-5.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/program-language/python-series/instance/20181003-1-5.html"/>
     <updated>2023-09-27T15:08:09.000Z</updated>
     <summary type="html"><![CDATA[<h1> Python3 编程实例（1 - 5）</h1>
 <div class="hint-container info">
@@ -2771,8 +2771,8 @@ salary <span class="token operator">=</span> <span class="token builtin">input</
   </entry>
   <entry>
     <title type="text">Python3 编程实例（6 - 10）</title>
-    <id>https://cunyu1943.github.io/program-language/python-series/instance/20181004-6-10.html</id>
-    <link href="https://cunyu1943.github.io/program-language/python-series/instance/20181004-6-10.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/program-language/python-series/instance/20181004-6-10.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/program-language/python-series/instance/20181004-6-10.html"/>
     <updated>2023-09-27T15:13:02.000Z</updated>
     <summary type="html"><![CDATA[<h1> Python3 编程实例（6 - 10）</h1>
 <div class="hint-container info">
@@ -2838,8 +2838,8 @@ salary <span class="token operator">=</span> <span class="token builtin">input</
   </entry>
   <entry>
     <title type="text">Python3 编程实例（11 - 15）</title>
-    <id>https://cunyu1943.github.io/program-language/python-series/instance/20181005-11-15.html</id>
-    <link href="https://cunyu1943.github.io/program-language/python-series/instance/20181005-11-15.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/program-language/python-series/instance/20181005-11-15.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/program-language/python-series/instance/20181005-11-15.html"/>
     <updated>2023-09-27T07:28:16.000Z</updated>
     <summary type="html"><![CDATA[<h1> Python3 编程实例（11 - 15）</h1>
 <div class="hint-container info">
@@ -2911,8 +2911,8 @@ salary <span class="token operator">=</span> <span class="token builtin">input</
   </entry>
   <entry>
     <title type="text">Python3 编程实例（16 - 20）</title>
-    <id>https://cunyu1943.github.io/program-language/python-series/instance/20181006-16-20.html</id>
-    <link href="https://cunyu1943.github.io/program-language/python-series/instance/20181006-16-20.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/program-language/python-series/instance/20181006-16-20.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/program-language/python-series/instance/20181006-16-20.html"/>
     <updated>2023-09-27T07:28:16.000Z</updated>
     <summary type="html"><![CDATA[<h1> Python3 编程实例（16 - 20）</h1>
 <div class="hint-container info">
@@ -3003,8 +3003,8 @@ salary <span class="token operator">=</span> <span class="token builtin">input</
   </entry>
   <entry>
     <title type="text">Python3 编程实例（21 - 25）</title>
-    <id>https://cunyu1943.github.io/program-language/python-series/instance/20181007-21-25.html</id>
-    <link href="https://cunyu1943.github.io/program-language/python-series/instance/20181007-21-25.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/program-language/python-series/instance/20181007-21-25.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/program-language/python-series/instance/20181007-21-25.html"/>
     <updated>2023-09-27T07:28:16.000Z</updated>
     <summary type="html"><![CDATA[<h1> Python3 编程实例（21 - 25）</h1>
 <div class="hint-container info">
@@ -3070,8 +3070,8 @@ salary <span class="token operator">=</span> <span class="token builtin">input</
   </entry>
   <entry>
     <title type="text">Python3 编程实例（26 - 30）</title>
-    <id>https://cunyu1943.github.io/program-language/python-series/instance/20181008-26-30.html</id>
-    <link href="https://cunyu1943.github.io/program-language/python-series/instance/20181008-26-30.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/program-language/python-series/instance/20181008-26-30.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/program-language/python-series/instance/20181008-26-30.html"/>
     <updated>2023-09-27T07:28:16.000Z</updated>
     <summary type="html"><![CDATA[<h1> Python3 编程实例（26 - 30）</h1>
 <div class="hint-container info">
@@ -3138,8 +3138,8 @@ salary <span class="token operator">=</span> <span class="token builtin">input</
   </entry>
   <entry>
     <title type="text">Python3 编程实例（31 - 35）</title>
-    <id>https://cunyu1943.github.io/program-language/python-series/instance/20181009-31-35.html</id>
-    <link href="https://cunyu1943.github.io/program-language/python-series/instance/20181009-31-35.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/program-language/python-series/instance/20181009-31-35.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/program-language/python-series/instance/20181009-31-35.html"/>
     <updated>2023-09-27T07:28:16.000Z</updated>
     <summary type="html"><![CDATA[<h1> Python3 编程实例（31 - 35）</h1>
 <div class="hint-container info">
@@ -3296,8 +3296,8 @@ salary <span class="token operator">=</span> <span class="token builtin">input</
   </entry>
   <entry>
     <title type="text">Python3 编程实例（36 - 40）</title>
-    <id>https://cunyu1943.github.io/program-language/python-series/instance/20181010-36-40.html</id>
-    <link href="https://cunyu1943.github.io/program-language/python-series/instance/20181010-36-40.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/program-language/python-series/instance/20181010-36-40.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/program-language/python-series/instance/20181010-36-40.html"/>
     <updated>2023-09-27T07:28:16.000Z</updated>
     <summary type="html"><![CDATA[<h1> Python3 编程实例（36 - 40）</h1>
 <div class="hint-container info">
@@ -3391,8 +3391,8 @@ salary <span class="token operator">=</span> <span class="token builtin">input</
   </entry>
   <entry>
     <title type="text">Python3 编程实例（41 - 45）</title>
-    <id>https://cunyu1943.github.io/program-language/python-series/instance/20181011-41-45.html</id>
-    <link href="https://cunyu1943.github.io/program-language/python-series/instance/20181011-41-45.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/program-language/python-series/instance/20181011-41-45.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/program-language/python-series/instance/20181011-41-45.html"/>
     <updated>2023-09-27T07:28:16.000Z</updated>
     <summary type="html"><![CDATA[<h1> Python3 编程实例（41 - 45）</h1>
 <div class="hint-container info">
@@ -3485,8 +3485,8 @@ salary <span class="token operator">=</span> <span class="token builtin">input</
   </entry>
   <entry>
     <title type="text">Python3 编程实例（46 - 50）</title>
-    <id>https://cunyu1943.github.io/program-language/python-series/instance/20181012-46-50.html</id>
-    <link href="https://cunyu1943.github.io/program-language/python-series/instance/20181012-46-50.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/program-language/python-series/instance/20181012-46-50.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/program-language/python-series/instance/20181012-46-50.html"/>
     <updated>2023-09-27T07:28:16.000Z</updated>
     <summary type="html"><![CDATA[<h1> Python3 编程实例（46 - 50）</h1>
 <div class="hint-container info">
@@ -3573,8 +3573,8 @@ salary <span class="token operator">=</span> <span class="token builtin">input</
   </entry>
   <entry>
     <title type="text">Python3 编程实例（51 - 55）</title>
-    <id>https://cunyu1943.github.io/program-language/python-series/instance/20181013-51-55.html</id>
-    <link href="https://cunyu1943.github.io/program-language/python-series/instance/20181013-51-55.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/program-language/python-series/instance/20181013-51-55.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/program-language/python-series/instance/20181013-51-55.html"/>
     <updated>2023-09-27T07:28:16.000Z</updated>
     <summary type="html"><![CDATA[<h1> Python3 编程实例（51 - 55）</h1>
 <div class="hint-container info">
@@ -3673,22 +3673,22 @@ salary <span class="token operator">=</span> <span class="token builtin">input</
   </entry>
   <entry>
     <title type="text">Python 实例</title>
-    <id>https://cunyu1943.github.io/program-language/python-series/instance/</id>
-    <link href="https://cunyu1943.github.io/program-language/python-series/instance/"/>
+    <id>https://cunyu1943.github.io/JavaPark/program-language/python-series/instance/</id>
+    <link href="https://cunyu1943.github.io/JavaPark/program-language/python-series/instance/"/>
     <updated>2023-09-27T07:28:16.000Z</updated>
     <published>2023-09-27T07:28:16.000Z</published>
   </entry>
   <entry>
     <title type="text">Nginx 教程</title>
-    <id>https://cunyu1943.github.io/java-tutorial/nginx-series/</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/nginx-series/"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/nginx-series/</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/nginx-series/"/>
     <updated>2023-09-26T15:06:57.000Z</updated>
     <published>2023-09-26T15:06:57.000Z</published>
   </entry>
   <entry>
     <title type="text">Axios 简单使用指南</title>
-    <id>https://cunyu1943.github.io/java-tutorial/web-front-series/20230926-axios.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/web-front-series/20230926-axios.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/web-front-series/20230926-axios.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/web-front-series/20230926-axios.html"/>
     <updated>2023-09-26T15:06:57.000Z</updated>
     <summary type="html"><![CDATA[<h1> Axios 简单使用指南</h1>
 <div class="hint-container info">
@@ -3780,8 +3780,8 @@ salary <span class="token operator">=</span> <span class="token builtin">input</
   </entry>
   <entry>
     <title type="text">内存管理函数</title>
-    <id>https://cunyu1943.github.io/program-language/c-series/20180308-memory-manage.html</id>
-    <link href="https://cunyu1943.github.io/program-language/c-series/20180308-memory-manage.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/program-language/c-series/20180308-memory-manage.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/program-language/c-series/20180308-memory-manage.html"/>
     <updated>2023-09-26T15:06:57.000Z</updated>
     <summary type="html"><![CDATA[<h1> 内存管理函数</h1>
 <div class="hint-container info">
@@ -3871,22 +3871,22 @@ salary <span class="token operator">=</span> <span class="token builtin">input</
   </entry>
   <entry>
     <title type="text">C 系列</title>
-    <id>https://cunyu1943.github.io/program-language/c-series/</id>
-    <link href="https://cunyu1943.github.io/program-language/c-series/"/>
+    <id>https://cunyu1943.github.io/JavaPark/program-language/c-series/</id>
+    <link href="https://cunyu1943.github.io/JavaPark/program-language/c-series/"/>
     <updated>2023-09-27T07:28:16.000Z</updated>
     <published>2023-09-26T15:06:57.000Z</published>
   </entry>
   <entry>
     <title type="text">软件设计师</title>
-    <id>https://cunyu1943.github.io/tutorial/software-designer-series/</id>
-    <link href="https://cunyu1943.github.io/tutorial/software-designer-series/"/>
+    <id>https://cunyu1943.github.io/JavaPark/tutorial/software-designer-series/</id>
+    <link href="https://cunyu1943.github.io/JavaPark/tutorial/software-designer-series/"/>
     <updated>2023-09-26T15:06:57.000Z</updated>
     <published>2023-09-26T15:06:57.000Z</published>
   </entry>
   <entry>
     <title type="text">简介与环境搭建</title>
-    <id>https://cunyu1943.github.io/java-tutorial/nginx-series/20221016-intro-install.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/nginx-series/20221016-intro-install.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/nginx-series/20221016-intro-install.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/nginx-series/20221016-intro-install.html"/>
     <updated>2023-09-26T15:06:57.000Z</updated>
     <summary type="html"><![CDATA[<h1> 简介与环境搭建</h1>
 <div class="hint-container info">
@@ -3994,8 +3994,8 @@ salary <span class="token operator">=</span> <span class="token builtin">input</
   </entry>
   <entry>
     <title type="text">计算机系统</title>
-    <id>https://cunyu1943.github.io/tutorial/software-designer-series/20221024-computer-system.html</id>
-    <link href="https://cunyu1943.github.io/tutorial/software-designer-series/20221024-computer-system.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/tutorial/software-designer-series/20221024-computer-system.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/tutorial/software-designer-series/20221024-computer-system.html"/>
     <updated>2023-09-26T15:06:57.000Z</updated>
     <summary type="html"><![CDATA[<h1> 计算机系统</h1>
 <div class="hint-container info">
@@ -4270,8 +4270,8 @@ N = 2^E×F
   </entry>
   <entry>
     <title type="text">计算机软硬件</title>
-    <id>https://cunyu1943.github.io/java-tutorial/javase-series/20230920-cs-hard-soft.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/javase-series/20230920-cs-hard-soft.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20230920-cs-hard-soft.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20230920-cs-hard-soft.html"/>
     <updated>2023-09-25T14:33:35.000Z</updated>
     <summary type="html"><![CDATA[<h1> 计算机软硬件</h1>
 <div class="hint-container info">
@@ -4304,8 +4304,8 @@ N = 2^E×F
   </entry>
   <entry>
     <title type="text">Java 简介</title>
-    <id>https://cunyu1943.github.io/java-tutorial/javase-series/20230921-intro.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/javase-series/20230921-intro.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20230921-intro.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20230921-intro.html"/>
     <updated>2023-10-08T14:52:36.000Z</updated>
     <summary type="html"><![CDATA[<h1> Java 简介</h1>
 <div class="hint-container info">
@@ -4497,8 +4497,8 @@ N = 2^E×F
   </entry>
   <entry>
     <title type="text">开发环境配置</title>
-    <id>https://cunyu1943.github.io/java-tutorial/javase-series/20230922-environment.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/javase-series/20230922-environment.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20230922-environment.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20230922-environment.html"/>
     <updated>2023-10-08T14:52:36.000Z</updated>
     <summary type="html"><![CDATA[<h1> 开发环境配置</h1>
 <div class="hint-container info">
@@ -4696,8 +4696,8 @@ N = 2^E×F
   </entry>
   <entry>
     <title type="text">好物周刊#33：</title>
-    <id>https://cunyu1943.github.io/weekly/2023/1125-1201.html</id>
-    <link href="https://cunyu1943.github.io/weekly/2023/1125-1201.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/weekly/2023/1125-1201.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/weekly/2023/1125-1201.html"/>
     <updated>2023-09-24T14:35:44.000Z</updated>
     <summary type="html"><![CDATA[<h1> 好物周刊#33：</h1>
 <div class="hint-container info">
@@ -4749,8 +4749,8 @@ N = 2^E×F
   </entry>
   <entry>
     <title type="text">好物周刊#32：</title>
-    <id>https://cunyu1943.github.io/weekly/2023/1118-1124.html</id>
-    <link href="https://cunyu1943.github.io/weekly/2023/1118-1124.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/weekly/2023/1118-1124.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/weekly/2023/1118-1124.html"/>
     <updated>2023-09-24T14:35:44.000Z</updated>
     <summary type="html"><![CDATA[<h1> 好物周刊#32：</h1>
 <div class="hint-container info">
@@ -4806,8 +4806,8 @@ N = 2^E×F
   </entry>
   <entry>
     <title type="text">好物周刊#30：</title>
-    <id>https://cunyu1943.github.io/weekly/2023/1104-1110.html</id>
-    <link href="https://cunyu1943.github.io/weekly/2023/1104-1110.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/weekly/2023/1104-1110.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/weekly/2023/1104-1110.html"/>
     <updated>2023-09-26T08:49:48.000Z</updated>
     <summary type="html"><![CDATA[<h1> 好物周刊#30：</h1>
 <div class="hint-container info">
@@ -4907,8 +4907,8 @@ N = 2^E×F
   </entry>
   <entry>
     <title type="text">好物周刊#31：</title>
-    <id>https://cunyu1943.github.io/weekly/2023/1111-1117.html</id>
-    <link href="https://cunyu1943.github.io/weekly/2023/1111-1117.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/weekly/2023/1111-1117.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/weekly/2023/1111-1117.html"/>
     <updated>2023-10-09T09:41:09.000Z</updated>
     <summary type="html"><![CDATA[<h1> 好物周刊#31：</h1>
 <div class="hint-container info">
@@ -4979,8 +4979,8 @@ N = 2^E×F
   </entry>
   <entry>
     <title type="text">好物周刊#29：项目管理软件</title>
-    <id>https://cunyu1943.github.io/weekly/2023/1028-1103.html</id>
-    <link href="https://cunyu1943.github.io/weekly/2023/1028-1103.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/weekly/2023/1028-1103.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/weekly/2023/1028-1103.html"/>
     <updated>2023-09-26T08:49:48.000Z</updated>
     <summary type="html"><![CDATA[<h1> 好物周刊#29：项目管理软件</h1>
 <div class="hint-container info">
@@ -5072,8 +5072,8 @@ N = 2^E×F
   </entry>
   <entry>
     <title type="text">好物周刊#26：</title>
-    <id>https://cunyu1943.github.io/weekly/2023/1007-1013.html</id>
-    <link href="https://cunyu1943.github.io/weekly/2023/1007-1013.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/weekly/2023/1007-1013.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/weekly/2023/1007-1013.html"/>
     <updated>2023-09-19T00:32:31.000Z</updated>
     <summary type="html"><![CDATA[<h1> 好物周刊#26：</h1>
 <div class="hint-container info">
@@ -5156,8 +5156,8 @@ N = 2^E×F
   </entry>
   <entry>
     <title type="text">好物周刊#27：</title>
-    <id>https://cunyu1943.github.io/weekly/2023/1014-1020.html</id>
-    <link href="https://cunyu1943.github.io/weekly/2023/1014-1020.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/weekly/2023/1014-1020.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/weekly/2023/1014-1020.html"/>
     <updated>2023-09-20T00:26:16.000Z</updated>
     <summary type="html"><![CDATA[<h1> 好物周刊#27：</h1>
 <div class="hint-container info">
@@ -5271,8 +5271,8 @@ N = 2^E×F
   </entry>
   <entry>
     <title type="text">好物周刊#28：</title>
-    <id>https://cunyu1943.github.io/weekly/2023/1021-1027.html</id>
-    <link href="https://cunyu1943.github.io/weekly/2023/1021-1027.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/weekly/2023/1021-1027.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/weekly/2023/1021-1027.html"/>
     <updated>2023-09-21T08:43:46.000Z</updated>
     <summary type="html"><![CDATA[<h1> 好物周刊#28：</h1>
 <div class="hint-container info">
@@ -5355,8 +5355,8 @@ N = 2^E×F
   </entry>
   <entry>
     <title type="text">好物周刊#24：动手学深度学习</title>
-    <id>https://cunyu1943.github.io/weekly/2023/0923-0929.html</id>
-    <link href="https://cunyu1943.github.io/weekly/2023/0923-0929.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/weekly/2023/0923-0929.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/weekly/2023/0923-0929.html"/>
     <updated>2023-09-29T14:35:48.000Z</updated>
     <summary type="html"><![CDATA[<h1> 好物周刊#24：动手学深度学习</h1>
 <div class="hint-container info">
@@ -5467,8 +5467,8 @@ N = 2^E×F
   </entry>
   <entry>
     <title type="text">好物周刊#25：PPT 超级市场</title>
-    <id>https://cunyu1943.github.io/weekly/2023/0930-1006.html</id>
-    <link href="https://cunyu1943.github.io/weekly/2023/0930-1006.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/weekly/2023/0930-1006.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/weekly/2023/0930-1006.html"/>
     <updated>2023-10-06T10:33:40.000Z</updated>
     <summary type="html"><![CDATA[<h1> 好物周刊#25：PPT 超级市场</h1>
 <div class="hint-container info">
@@ -5609,8 +5609,8 @@ N = 2^E×F
   </entry>
   <entry>
     <title type="text">CSS 教程</title>
-    <id>https://cunyu1943.github.io/java-tutorial/web-front-series/20230903-css.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/web-front-series/20230903-css.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/web-front-series/20230903-css.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/web-front-series/20230903-css.html"/>
     <updated>2023-09-15T00:12:02.000Z</updated>
     <summary type="html"><![CDATA[<h1> CSS 教程</h1>
 <div class="hint-container info">
@@ -5924,8 +5924,8 @@ N = 2^E×F
   </entry>
   <entry>
     <title type="text">HTML 大揭秘</title>
-    <id>https://cunyu1943.github.io/java-tutorial/web-front-series/20230829-html.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/web-front-series/20230829-html.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/web-front-series/20230829-html.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/web-front-series/20230829-html.html"/>
     <updated>2023-09-15T00:12:02.000Z</updated>
     <summary type="html"><![CDATA[<h1> HTML 大揭秘</h1>
 <div class="hint-container info">
@@ -6319,8 +6319,8 @@ N = 2^E×F
   </entry>
   <entry>
     <title type="text">开发环境搭建</title>
-    <id>https://cunyu1943.github.io/java-tutorial/web-front-series/20230829-environment.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/web-front-series/20230829-environment.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/web-front-series/20230829-environment.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/web-front-series/20230829-environment.html"/>
     <updated>2023-09-18T07:04:08.000Z</updated>
     <summary type="html"><![CDATA[<h1> 开发环境搭建</h1>
 <div class="hint-container info">
@@ -6406,15 +6406,15 @@ N = 2^E×F
   </entry>
   <entry>
     <title type="text">Web 前端教程</title>
-    <id>https://cunyu1943.github.io/java-tutorial/web-front-series/</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/web-front-series/"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/web-front-series/</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/web-front-series/"/>
     <updated>2023-08-29T15:08:10.000Z</updated>
     <published>2023-08-29T15:08:10.000Z</published>
   </entry>
   <entry>
     <title type="text">好物周刊#20：写作辅助插件</title>
-    <id>https://cunyu1943.github.io/weekly/2023/0826-0901.html</id>
-    <link href="https://cunyu1943.github.io/weekly/2023/0826-0901.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/weekly/2023/0826-0901.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/weekly/2023/0826-0901.html"/>
     <updated>2023-09-19T02:38:58.000Z</updated>
     <summary type="html"><![CDATA[<h1> 好物周刊#20：写作辅助插件</h1>
 <div class="hint-container info">
@@ -6557,8 +6557,8 @@ N = 2^E×F
   </entry>
   <entry>
     <title type="text">好物周刊#21：前端学习资料</title>
-    <id>https://cunyu1943.github.io/weekly/2023/0902-0908.html</id>
-    <link href="https://cunyu1943.github.io/weekly/2023/0902-0908.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/weekly/2023/0902-0908.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/weekly/2023/0902-0908.html"/>
     <updated>2023-09-19T02:38:58.000Z</updated>
     <summary type="html"><![CDATA[<h1> 好物周刊#21：前端学习资料</h1>
 <div class="hint-container info">
@@ -6693,8 +6693,8 @@ N = 2^E×F
   </entry>
   <entry>
     <title type="text">好物周刊#22：代码阅读辅助工具</title>
-    <id>https://cunyu1943.github.io/weekly/2023/0909-0915.html</id>
-    <link href="https://cunyu1943.github.io/weekly/2023/0909-0915.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/weekly/2023/0909-0915.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/weekly/2023/0909-0915.html"/>
     <updated>2023-09-19T02:38:58.000Z</updated>
     <summary type="html"><![CDATA[<h1> 好物周刊#22：代码阅读辅助工具</h1>
 <div class="hint-container info">
@@ -6812,8 +6812,8 @@ N = 2^E×F
   </entry>
   <entry>
     <title type="text">好物周刊#23：Win 12 来了！</title>
-    <id>https://cunyu1943.github.io/weekly/2023/0916-0922.html</id>
-    <link href="https://cunyu1943.github.io/weekly/2023/0916-0922.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/weekly/2023/0916-0922.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/weekly/2023/0916-0922.html"/>
     <updated>2023-09-22T00:21:32.000Z</updated>
     <summary type="html"><![CDATA[<h1> 好物周刊#23：Win 12 来了！</h1>
 <div class="hint-container info">
@@ -6921,8 +6921,8 @@ N = 2^E×F
   </entry>
   <entry>
     <title type="text"></title>
-    <id>https://cunyu1943.github.io/frontmatter.html</id>
-    <link href="https://cunyu1943.github.io/frontmatter.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/frontmatter.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/frontmatter.html"/>
     <updated>2023-09-27T11:03:03.000Z</updated>
     <summary type="html"><![CDATA[<div class="hint-container info">
 <p class="hint-container-title">共勉</p>
@@ -6951,8 +6951,8 @@ N = 2^E×F
   </entry>
   <entry>
     <title type="text">JavaPark(Java 自学指南)</title>
-    <id>https://cunyu1943.github.io/home.html</id>
-    <link href="https://cunyu1943.github.io/home.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/home.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/home.html"/>
     <updated>2023-08-27T01:05:55.000Z</updated>
     <summary type="html"><![CDATA[<h1> JavaPark(Java 自学指南)</h1>
 ]]></summary>
@@ -6962,8 +6962,8 @@ N = 2^E×F
   </entry>
   <entry>
     <title type="text">想学好 Java 基础，应该去哪儿刷题</title>
-    <id>https://cunyu1943.github.io/QA/20230402-where-exercise-java-basics.html</id>
-    <link href="https://cunyu1943.github.io/QA/20230402-where-exercise-java-basics.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/QA/20230402-where-exercise-java-basics.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/QA/20230402-where-exercise-java-basics.html"/>
     <updated>2023-09-15T00:12:02.000Z</updated>
     <summary type="html"><![CDATA[<h1> 想学好 Java 基础，应该去哪儿刷题</h1>
 <div class="hint-container info">
@@ -7052,15 +7052,15 @@ N = 2^E×F
   </entry>
   <entry>
     <title type="text">你问我答</title>
-    <id>https://cunyu1943.github.io/QA/</id>
-    <link href="https://cunyu1943.github.io/QA/"/>
+    <id>https://cunyu1943.github.io/JavaPark/QA/</id>
+    <link href="https://cunyu1943.github.io/JavaPark/QA/"/>
     <updated>2023-08-27T01:05:55.000Z</updated>
     <published>2023-08-27T01:05:55.000Z</published>
   </entry>
   <entry>
     <title type="text">创刊寄语</title>
-    <id>https://cunyu1943.github.io/weekly/</id>
-    <link href="https://cunyu1943.github.io/weekly/"/>
+    <id>https://cunyu1943.github.io/JavaPark/weekly/</id>
+    <link href="https://cunyu1943.github.io/JavaPark/weekly/"/>
     <updated>2023-08-27T01:05:55.000Z</updated>
     <summary type="html"><![CDATA[<h1> 创刊寄语</h1>
 <div class="hint-container info">
@@ -7086,7 +7086,7 @@ N = 2^E×F
 <li><a href="https://github.com/cunyu1943/JavaPark" target="_blank" rel="noopener noreferrer">JavaPark</a></li>
 <li><a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIyNTg2MjkzNw==&amp;action=getalbum&amp;album_id=2501145320567963650&amp;scene=173&amp;from_msgid=2247497779&amp;from_itemidx=1&amp;count=3&amp;nolastread=1#wechat_redirect" target="_blank" rel="noopener noreferrer">公众号</a>：移动端推荐</li>
 </ul>
-<p>如果你想推荐或自荐项目/网站/软件/插件/资料等任何资源，欢迎提交 <strong><a href="https://github.com/cunyu1943/weekly/issues" target="_blank" rel="noopener noreferrer">issue</a></strong> 或者添加我 <strong><a href="/contact/wechat.png">个人微信：cunyu1943</a></strong> 和我交流。</p>
+<p>如果你想推荐或自荐项目/网站/软件/插件/资料等任何资源，欢迎提交 <strong><a href="https://github.com/cunyu1943/weekly/issues" target="_blank" rel="noopener noreferrer">issue</a></strong> 或者添加我 <strong><a href="/contact/wechat.png" target="_blank" rel="noopener noreferrer">个人微信：cunyu1943</a></strong> 和我交流。</p>
 
 <h2> 二、介绍</h2>
 <p>互联网时代，各种信息层出不穷。而从众多信息中过滤出需要的，并将这些信息聚合起来就是一项十分重要的技能。</p>
@@ -7114,8 +7114,8 @@ N = 2^E×F
   </entry>
   <entry>
     <title type="text">Java 入门简介</title>
-    <id>https://cunyu1943.github.io/java-tutorial/javase-series/20220701-intro-to-java.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/javase-series/20220701-intro-to-java.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220701-intro-to-java.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220701-intro-to-java.html"/>
     <updated>2023-09-15T00:12:02.000Z</updated>
     <summary type="html"><![CDATA[<h1> Java 入门简介</h1>
 <div class="hint-container info">
@@ -7315,8 +7315,8 @@ N = 2^E×F
   </entry>
   <entry>
     <title type="text">JDK 安装及入门实例</title>
-    <id>https://cunyu1943.github.io/java-tutorial/javase-series/20220702-jdk-install-and-hello-world.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/javase-series/20220702-jdk-install-and-hello-world.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220702-jdk-install-and-hello-world.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220702-jdk-install-and-hello-world.html"/>
     <updated>2023-09-15T00:12:02.000Z</updated>
     <summary type="html"><![CDATA[<h1> JDK 安装及入门实例</h1>
 <div class="hint-container info">
@@ -7511,8 +7511,8 @@ N = 2^E×F
   </entry>
   <entry>
     <title type="text">利用 IDEA 进行 Java 开发</title>
-    <id>https://cunyu1943.github.io/java-tutorial/javase-series/20220703-learn-java-with-idea.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/javase-series/20220703-learn-java-with-idea.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220703-learn-java-with-idea.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220703-learn-java-with-idea.html"/>
     <updated>2023-09-15T00:12:02.000Z</updated>
     <summary type="html"><![CDATA[<h1> 利用 IDEA 进行 Java 开发</h1>
 <div class="hint-container info">
@@ -7666,8 +7666,8 @@ N = 2^E×F
   </entry>
   <entry>
     <title type="text">变量与数据类型</title>
-    <id>https://cunyu1943.github.io/java-tutorial/javase-series/20220704-variable-and-datatype.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/javase-series/20220704-variable-and-datatype.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220704-variable-and-datatype.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220704-variable-and-datatype.html"/>
     <updated>2023-09-15T00:12:02.000Z</updated>
     <summary type="html"><![CDATA[<h1> 变量与数据类型</h1>
 <div class="hint-container info">
@@ -8104,8 +8104,8 @@ N = 2^E×F
   </entry>
   <entry>
     <title type="text">常用进制转换</title>
-    <id>https://cunyu1943.github.io/java-tutorial/javase-series/20220705-binary-convert.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/javase-series/20220705-binary-convert.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220705-binary-convert.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220705-binary-convert.html"/>
     <updated>2023-09-15T00:12:02.000Z</updated>
     <summary type="html"><![CDATA[<h1> 常用进制转换</h1>
 <div class="hint-container info">
@@ -8219,8 +8219,8 @@ N = 2^E×F
   </entry>
   <entry>
     <title type="text">操作符</title>
-    <id>https://cunyu1943.github.io/java-tutorial/javase-series/20220706-operator.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/javase-series/20220706-operator.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220706-operator.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220706-operator.html"/>
     <updated>2023-09-15T00:12:02.000Z</updated>
     <summary type="html"><![CDATA[<h1> 操作符</h1>
 <div class="hint-container info">
@@ -8571,8 +8571,8 @@ N = 2^E×F
   </entry>
   <entry>
     <title type="text">流程控制</title>
-    <id>https://cunyu1943.github.io/java-tutorial/javase-series/20220707-control-process.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/javase-series/20220707-control-process.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220707-control-process.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220707-control-process.html"/>
     <updated>2023-09-15T00:12:02.000Z</updated>
     <summary type="html"><![CDATA[<h1> 流程控制</h1>
 <div class="hint-container info">
@@ -8831,8 +8831,8 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
   </entry>
   <entry>
     <title type="text">数组操作的奇技淫巧</title>
-    <id>https://cunyu1943.github.io/java-tutorial/javase-series/20220708-how-to-operate-array.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/javase-series/20220708-how-to-operate-array.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220708-how-to-operate-array.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220708-how-to-operate-array.html"/>
     <updated>2023-09-15T00:12:02.000Z</updated>
     <summary type="html"><![CDATA[<h1> 数组操作的奇技淫巧</h1>
 <div class="hint-container info">
@@ -8966,8 +8966,8 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
   </entry>
   <entry>
     <title type="text">面向对象的 3、5 知识点</title>
-    <id>https://cunyu1943.github.io/java-tutorial/javase-series/20220709-oop-1.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/javase-series/20220709-oop-1.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220709-oop-1.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220709-oop-1.html"/>
     <updated>2023-09-15T00:12:02.000Z</updated>
     <summary type="html"><![CDATA[<h1> 面向对象的 3、5 知识点</h1>
 <div class="hint-container info">
@@ -9079,8 +9079,8 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
   </entry>
   <entry>
     <title type="text">类的相关知识</title>
-    <id>https://cunyu1943.github.io/java-tutorial/javase-series/20220710-oop-2.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/javase-series/20220710-oop-2.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220710-oop-2.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220710-oop-2.html"/>
     <updated>2023-09-15T00:12:02.000Z</updated>
     <summary type="html"><![CDATA[<h1> 类的相关知识</h1>
 <div class="hint-container info">
@@ -9292,8 +9292,8 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
   </entry>
   <entry>
     <title type="text">包和 jar 文件的创建</title>
-    <id>https://cunyu1943.github.io/java-tutorial/javase-series/20220711-oop-3.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/javase-series/20220711-oop-3.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220711-oop-3.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220711-oop-3.html"/>
     <updated>2023-09-15T00:12:02.000Z</updated>
     <summary type="html"><![CDATA[<h1> 包和 jar 文件的创建</h1>
 <div class="hint-container info">
@@ -9434,8 +9434,8 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
   </entry>
   <entry>
     <title type="text">成员变量、实例变量、静态变量、局部变量</title>
-    <id>https://cunyu1943.github.io/java-tutorial/javase-series/20220712-all-kinds-of-variable.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/javase-series/20220712-all-kinds-of-variable.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220712-all-kinds-of-variable.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220712-all-kinds-of-variable.html"/>
     <updated>2023-09-15T00:12:02.000Z</updated>
     <summary type="html"><![CDATA[<h1> 成员变量、实例变量、静态变量、局部变量</h1>
 <div class="hint-container info">
@@ -9569,8 +9569,8 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
   </entry>
   <entry>
     <title type="text">String 详解</title>
-    <id>https://cunyu1943.github.io/java-tutorial/javase-series/20220713-string.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/javase-series/20220713-string.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220713-string.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220713-string.html"/>
     <updated>2023-09-15T00:12:02.000Z</updated>
     <summary type="html"><![CDATA[<h1> String 详解</h1>
 <div class="hint-container info">
@@ -9805,8 +9805,8 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
   </entry>
   <entry>
     <title type="text">ArrayList 详解</title>
-    <id>https://cunyu1943.github.io/java-tutorial/javase-series/20220714-arraylist.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/javase-series/20220714-arraylist.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220714-arraylist.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220714-arraylist.html"/>
     <updated>2023-09-15T00:12:02.000Z</updated>
     <summary type="html"><![CDATA[<h1> ArrayList 详解</h1>
 <div class="hint-container info">
@@ -9969,8 +9969,8 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
   </entry>
   <entry>
     <title type="text">输入输出流</title>
-    <id>https://cunyu1943.github.io/java-tutorial/javase-series/20220715-in-out-stream.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/javase-series/20220715-in-out-stream.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220715-in-out-stream.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220715-in-out-stream.html"/>
     <updated>2023-09-15T00:12:02.000Z</updated>
     <summary type="html"><![CDATA[<h1> 输入输出流</h1>
 <div class="hint-container info">
@@ -10361,8 +10361,8 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
   </entry>
   <entry>
     <title type="text">反射机制详解</title>
-    <id>https://cunyu1943.github.io/java-tutorial/javase-series/20220716-reflection.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/javase-series/20220716-reflection.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220716-reflection.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220716-reflection.html"/>
     <updated>2023-09-15T00:12:02.000Z</updated>
     <summary type="html"><![CDATA[<h1> 反射机制详解</h1>
 <div class="hint-container info">
@@ -10611,8 +10611,8 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
   </entry>
   <entry>
     <title type="text">JDBC 入门指南</title>
-    <id>https://cunyu1943.github.io/java-tutorial/javase-series/20220717-jdbc-introduction.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/javase-series/20220717-jdbc-introduction.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220717-jdbc-introduction.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220717-jdbc-introduction.html"/>
     <updated>2023-09-15T00:12:02.000Z</updated>
     <summary type="html"><![CDATA[<h1> JDBC 入门指南</h1>
 <div class="hint-container info">
@@ -10960,8 +10960,8 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
   </entry>
   <entry>
     <title type="text">是时候拥抱 Junit 单元测试了</title>
-    <id>https://cunyu1943.github.io/java-tutorial/javase-series/20220718-test-with-junit.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/javase-series/20220718-test-with-junit.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220718-test-with-junit.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220718-test-with-junit.html"/>
     <updated>2023-09-15T00:12:02.000Z</updated>
     <summary type="html"><![CDATA[<h1> 是时候拥抱 Junit 单元测试了</h1>
 <div class="hint-container info">
@@ -11199,8 +11199,8 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
   </entry>
   <entry>
     <title type="text">Lombok 安装及使用指南</title>
-    <id>https://cunyu1943.github.io/java-tutorial/javase-series/20220719-lombok-install-and-usage.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/javase-series/20220719-lombok-install-and-usage.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220719-lombok-install-and-usage.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220719-lombok-install-and-usage.html"/>
     <updated>2023-09-15T00:12:02.000Z</updated>
     <summary type="html"><![CDATA[<h1> Lombok 安装及使用指南</h1>
 <div class="hint-container info">
@@ -11387,8 +11387,8 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
   </entry>
   <entry>
     <title type="text">Fastjson V2 简单使用手册</title>
-    <id>https://cunyu1943.github.io/java-tutorial/javase-series/20220720-fastjson2-quickstart.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/javase-series/20220720-fastjson2-quickstart.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220720-fastjson2-quickstart.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220720-fastjson2-quickstart.html"/>
     <updated>2023-09-15T00:12:02.000Z</updated>
     <summary type="html"><![CDATA[<h1> Fastjson V2 简单使用手册</h1>
 <div class="hint-container info">
@@ -11446,8 +11446,8 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
   </entry>
   <entry>
     <title type="text">深入浅出 Java 注解</title>
-    <id>https://cunyu1943.github.io/java-tutorial/javase-series/20220721-annotations.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/javase-series/20220721-annotations.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220721-annotations.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20220721-annotations.html"/>
     <updated>2023-09-15T00:12:02.000Z</updated>
     <summary type="html"><![CDATA[<h1> 深入浅出 Java 注解</h1>
 <div class="hint-container info">
@@ -11654,8 +11654,8 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
   </entry>
   <entry>
     <title type="text">流程控制知识大闯关</title>
-    <id>https://cunyu1943.github.io/java-tutorial/javase-series/20221127-loop-in-action.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/javase-series/20221127-loop-in-action.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20221127-loop-in-action.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20221127-loop-in-action.html"/>
     <updated>2023-09-15T00:12:02.000Z</updated>
     <summary type="html"><![CDATA[<h1> 流程控制知识大闯关</h1>
 <div class="hint-container info">
@@ -11814,8 +11814,8 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
   </entry>
   <entry>
     <title type="text">static 和 final 小课堂</title>
-    <id>https://cunyu1943.github.io/java-tutorial/javase-series/20221203-oop-advance.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/javase-series/20221203-oop-advance.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20221203-oop-advance.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20221203-oop-advance.html"/>
     <updated>2023-09-15T00:12:02.000Z</updated>
     <summary type="html"><![CDATA[<h1> static 和 final 小课堂</h1>
 <div class="hint-container info">
@@ -11884,8 +11884,8 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
   </entry>
   <entry>
     <title type="text">抽象、接口和内部类</title>
-    <id>https://cunyu1943.github.io/java-tutorial/javase-series/20221211-abstract.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/javase-series/20221211-abstract.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20221211-abstract.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/20221211-abstract.html"/>
     <updated>2023-09-15T00:12:02.000Z</updated>
     <summary type="html"><![CDATA[<h1> 抽象、接口和内部类</h1>
 <div class="hint-container info">
@@ -12032,15 +12032,15 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
   </entry>
   <entry>
     <title type="text">Java 基础</title>
-    <id>https://cunyu1943.github.io/java-tutorial/javase-series/</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/javase-series/"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/javase-series/"/>
     <updated>2023-08-27T01:05:55.000Z</updated>
     <published>2023-08-27T01:05:55.000Z</published>
   </entry>
   <entry>
     <title type="text">《SQL 必知必会》全解析</title>
-    <id>https://cunyu1943.github.io/java-tutorial/mysql-series/20220726-sql-in-10min.html</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/mysql-series/20220726-sql-in-10min.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/mysql-series/20220726-sql-in-10min.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/mysql-series/20220726-sql-in-10min.html"/>
     <updated>2023-09-15T00:12:02.000Z</updated>
     <summary type="html"><![CDATA[<h1> 《SQL 必知必会》全解析</h1>
 <div class="hint-container info">
@@ -16034,15 +16034,15 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
   </entry>
   <entry>
     <title type="text">MySQL 教程</title>
-    <id>https://cunyu1943.github.io/java-tutorial/mysql-series/</id>
-    <link href="https://cunyu1943.github.io/java-tutorial/mysql-series/"/>
+    <id>https://cunyu1943.github.io/JavaPark/java-tutorial/mysql-series/</id>
+    <link href="https://cunyu1943.github.io/JavaPark/java-tutorial/mysql-series/"/>
     <updated>2023-08-27T01:05:55.000Z</updated>
     <published>2023-08-27T01:05:55.000Z</published>
   </entry>
   <entry>
     <title type="text">Hexo+Github Pages博客搭建教程</title>
-    <id>https://cunyu1943.github.io/tutorial/blog-series/20220401-hexo.html</id>
-    <link href="https://cunyu1943.github.io/tutorial/blog-series/20220401-hexo.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/tutorial/blog-series/20220401-hexo.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/tutorial/blog-series/20220401-hexo.html"/>
     <updated>2023-08-27T01:05:55.000Z</updated>
     <summary type="html"><![CDATA[<h1> Hexo+Github Pages博客搭建教程</h1>
 <div class="hint-container info">
@@ -16190,15 +16190,15 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
   </entry>
   <entry>
     <title type="text">博客搭建</title>
-    <id>https://cunyu1943.github.io/tutorial/blog-series/</id>
-    <link href="https://cunyu1943.github.io/tutorial/blog-series/"/>
+    <id>https://cunyu1943.github.io/JavaPark/tutorial/blog-series/</id>
+    <link href="https://cunyu1943.github.io/JavaPark/tutorial/blog-series/"/>
     <updated>2023-08-27T01:05:55.000Z</updated>
     <published>2023-08-27T01:05:55.000Z</published>
   </entry>
   <entry>
     <title type="text">网站访问太慢，不妨试试这些 CDN</title>
-    <id>https://cunyu1943.github.io/tutorial/dev-series/20220729-cdn.html</id>
-    <link href="https://cunyu1943.github.io/tutorial/dev-series/20220729-cdn.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/tutorial/dev-series/20220729-cdn.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/tutorial/dev-series/20220729-cdn.html"/>
     <updated>2023-08-27T01:05:55.000Z</updated>
     <summary type="html"><![CDATA[<h1> 网站访问太慢，不妨试试这些 CDN</h1>
 <div class="hint-container info">
@@ -16272,8 +16272,8 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
   </entry>
   <entry>
     <title type="text">计算机专业涨薪必备的几个网站</title>
-    <id>https://cunyu1943.github.io/tutorial/dev-series/20220731-exercise-websites.html</id>
-    <link href="https://cunyu1943.github.io/tutorial/dev-series/20220731-exercise-websites.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/tutorial/dev-series/20220731-exercise-websites.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/tutorial/dev-series/20220731-exercise-websites.html"/>
     <updated>2023-08-27T01:05:55.000Z</updated>
     <summary type="html"><![CDATA[<h1> 计算机专业涨薪必备的几个网站</h1>
 <div class="hint-container info">
@@ -16369,8 +16369,8 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
   </entry>
   <entry>
     <title type="text">黑客大神也常用的一些 CMD 命令</title>
-    <id>https://cunyu1943.github.io/tutorial/dev-series/20221127-cmd.html</id>
-    <link href="https://cunyu1943.github.io/tutorial/dev-series/20221127-cmd.html"/>
+    <id>https://cunyu1943.github.io/JavaPark/tutorial/dev-series/20221127-cmd.html</id>
+    <link href="https://cunyu1943.github.io/JavaPark/tutorial/dev-series/20221127-cmd.html"/>
     <updated>2023-08-27T01:05:55.000Z</updated>
     <summary type="html"><![CDATA[<h1> 黑客大神也常用的一些 CMD 命令</h1>
 <div class="hint-container info">
