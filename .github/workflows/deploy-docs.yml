@@ -6,8 +6,8 @@ on:
       # 确保这是你正在使用的分支名称1
       - main
 
-permissions:
-  contents: write
+#permissions:
+  #contents: write
 
 jobs:
   deploy-gh-pages:
@@ -46,5 +46,5 @@ jobs:
           branch: gh-pages
           folder: src/.vuepress/dist
           token: ${{ secrets.ACCESS_TOKEN }}
-          repository-name: HollowLatte/hollowlatte.github.io/JavaPark
+          repository-name: HollowLatte/JavaPark
           commit-message: "${{ github.event.head_commit.message }}"
